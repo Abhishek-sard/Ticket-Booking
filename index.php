@@ -227,9 +227,9 @@
 
     <section id="home">
         <div id="route-search-form">
-            <h1>Simple Bus Ticket Booking System</h1>
+            <h1>Sajilo Bus Ticket Booking System</h1>
 
-            <p class="text-center">Welcome to Simple Bus Ticket Booking System. Login now to manage bus tickets and much more. OR, simply scroll down to check the Ticket status using Passenger Name Record (PNR number)</p>
+            <p class="text-center">Welcome to Sajilo Bus Ticket Booking System. Login now to manage bus tickets and much more. OR, simply scroll down to check the Ticket status using Passenger Name Record (PNR number)</p>
 
             <center>
                 <button class="btn btn-danger " data-bs-toggle="modal" data-bs-target="#loginModal">Administrator Login</button>
@@ -318,7 +318,7 @@
         </section>
         <footer>
         <p>
-                        <i class="far fa-copyright"></i> <?php echo date('Y');?> - Simple Bus Ticket Booking System | Made with &#10084;&#65039; by Ashwin Anil
+                        <i class="far fa-copyright"></i> <?php echo date('Y');?> - Sajilo Bus Ticket Booking System - &#10084;&#65039; by Abhishek Sardar
                         </p>
         </footer>
     </div>
